@@ -1,18 +1,16 @@
-## Simple site: Easy websites with GitHub pages
+## CUCSApp: One-stop Open CS GradApp at LGU
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using Markdown and git.
+One-stop cs grad scholl application resources by the Lguers, of the Lguers, and for the Lguers.
 
-This is a minimal tutorial to get started.
-
-View the thing [here](https://kbroman.org/simple_site).
+View the page [here](https://cucs.app/)
 
 ---
 
-To the extent possible under law,
-[Karl Broman](https://github.com/kbroman)
-has waived all copyright and related or neighboring rights to
-&ldquo;[simple site](https://github.com/kbroman/simple_site)&rdquo;.
-This work is published from the United States.
-<br/>
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+### Guidance for contributors
+
+- Please email [fontina_inputs.0n@icloud.com](mailto:fontina_inputs.0n@icloud.com) to receive the contributing invitation. 
+  Please specify which part you are planning to contribute to: 
+  * i.Datapoints;
+  * ii.Industry-focus (Professional) Grad app;
+  * iii. Thesis-based (Research) Gradapp;
+  * iv. CS-Learn.
