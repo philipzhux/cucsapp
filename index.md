@@ -5,7 +5,7 @@ tagline: One-stop Open CS GradApp at LGU
 description: One-stop cs grad scholl application resources, by, of, and for LGUers
 ---
 
-## Key resouces for users
+## Key resources for users
 
 - [Datapoints from previous years](pages/data_point.html)
 - [Industry 方向申请指南](pages/industry_app.html)
