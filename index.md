@@ -1,11 +1,19 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: CUCSApp
+tagline: One-stop Open CS GradApp at LGU
+description: One-stop cs grad scholl application resources, by, of, and for LGUers
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
+# Key resouces for users
+- [Datapoints from previous years](pages/data_point.html)
+
+
+
+# Guidance for contributors
+
+To be completed
+<!-- [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
 [git](https://git-scm.com).
@@ -69,4 +77,4 @@ Also see my [tutorials](https://kbroman.org/tutorials) on
 [knitr](https://kbroman.org/knitr_knutshell),
 [R packages](https://kbroman.org/pkg_primer),
 [data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
+and [reproducible research](https://kbroman.org/steps2rr). -->
