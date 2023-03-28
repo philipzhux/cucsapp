@@ -1,23 +1,25 @@
 ---
-layout: page
+layout: widepage
 title: CUCSApp Datapoints
 description: Real LGU cases from previous year
 ---
 
 <block>
 <style>
-    .iframe-container {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
+.iframe-container {
+  overflow: hidden;
+  padding-top: 100%;
+  position: relative;
 }
 .iframe-container iframe {
-    position: absolute;
-    top: 0;
-    border: 0;
-    height: 100%;
-    width: 100%;
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
  </style>
-<div class="iframe-container"><iframe border="0" loading="lazy" src="https://cloud.seatable.cn/dtable/external-links/custom/cucsapp/"></iframe></div>
+<div class="iframe-container"><iframe loading="lazy" src="https://cloud.seatable.cn/dtable/external-links/custom/cucsapp/"></iframe></div>
+
 </block>
