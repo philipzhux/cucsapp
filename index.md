@@ -19,4 +19,4 @@ description: One-stop cs grad scholl application resources, by, of, and for LGUe
 
 - Please email [fontina_inputs.0n@icloud.com](mailto:fontina_inputs.0n@icloud.com) to receive the contributing invitation. Please specify which part you are planning to contribute to (i.Datapoints ii.Industry-focus (Professional) Grad app iii. Thesis-based (Research) Gradapp iv. CS-Learn)
 
-- To contribute to this specific site, please make pull requrest at [cscsapp](https://github.com/philipzhux/cucsapp)
+- To contribute to this specific site, please make pull requrest at [cucsapp](https://github.com/philipzhux/cucsapp)
