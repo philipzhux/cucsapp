@@ -10,6 +10,8 @@ description: One-stop cs grad scholl application resources, by, of, and for LGUe
 *The mobile site may compromise reading experiences, you are recommended to read on a desktop device.*
 
 - [Datapoints from previous years](pages/data_point.html)
+- Get enrolled in [CUCSApp Piazza](https://piazza.com/link.cuhk.edu.cn/spring2023/cucsapp) for Q&A
+- For courses related discussion, [this forum](https://issues.cuhksz.xuanyangxu.com) may help
 - [Industry 方向申请指南](pages/industry_app.html)
 - [Research 方向申请指南](pages/research_app.html)
 - [CS-Learn](pages/cs_learn.html)

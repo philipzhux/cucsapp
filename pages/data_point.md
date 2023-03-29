@@ -8,9 +8,12 @@ description: Real LGU cases from previous year
 
 *The mobile site may compromise reading experiences, you are recommended to read on a desktop device.*
 
+
 - 进入Program页可以查看Program的难度和对应的案例(案例可展开查看详情)
 - 进入Datapoints页可直接查看单独案例
 - Applicant页含Datapoint Contributors的背景信息和联系方式(optional)
+
+The cases here are constantly updating, stay tuned.
 
 If you find them useful, you may consider [buying me a coffee](https://www.buymeacoffee.com/cucs).
 
