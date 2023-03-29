@@ -6,14 +6,14 @@ description: Real LGU cases from previous year
 
 ## Usages
 
-*The mobile site may compromise reading experiences, you are recommended to read on a desktop device.*
+*The mobile site may compromise reading experiences, and reading on a desktop device are recommended.*
 
 
 - 进入Program页可以查看Program的难度和对应的案例(案例可展开查看详情)
 - 进入Datapoints页可直接查看单独案例
 - Applicant页含Datapoint Contributors的背景信息和联系方式(optional)
 
-The cases here are constantly updating, stay tuned.
+The cases here are constantly updating. Stay tuned for more to come.
 
 If you find them useful, you may consider [buying me a coffee](https://www.buymeacoffee.com/cucs).
 
