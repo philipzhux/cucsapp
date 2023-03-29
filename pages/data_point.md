@@ -8,11 +8,16 @@ description: Real LGU cases from previous year
 
 *Reading experiences may be compromised on mobile site. It is recommended to read on desktop devices.*
 
+- ***Difficulty Level* 仅供参考，难度不代表课程质量**
 
 - 进入Program页可以查看Program的难度和对应的案例 **(案例可展开查看详情)**
-- 进入Datapoints页可直接查看单独案例
-- Applicant页含Datapoint Contributors的背景信息和联系方式(optional)
-- ***Difficulty Level* 仅供参考，难度不代表课程质量**
+  
+- 若展开失败，可刷新本页重试
+
+- 进入`Data Points` tab 可直接查看单独案例
+
+- `Applicant` tab 含Datapoint Contributors的背景信息和联系方式(optional)
+
 - 相关项目的更多信息,可以:
   - 在一亩三分地上搜索（手机app搜索免费
   - **学校官网查看相关信息（重要）**
