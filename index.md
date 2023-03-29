@@ -7,7 +7,7 @@ description: One-stop cs grad scholl application resources, by, of, and for LGUe
 
 ## Key resources for users
 
-*The mobile site may compromise reading experiences, you are recommended to read on a desktop devices.*
+*The mobile site may compromise reading experiences, you are recommended to read on a desktop device.*
 
 - [Datapoints from previous years](pages/data_point.html)
 - [Industry 方向申请指南](pages/industry_app.html)

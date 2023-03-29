@@ -6,7 +6,7 @@ description: Real LGU cases from previous year
 
 ## Usages
 
-*The mobile site may compromise reading experiences, you are recommended to read on a desktop devices.*
+*The mobile site may compromise reading experiences, you are recommended to read on a desktop device.*
 
 - 进入Program页可以查看Program的难度和对应的案例(案例可展开查看详情)
 - 进入Datapoints页可直接查看单独案例
